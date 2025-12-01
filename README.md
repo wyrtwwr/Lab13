@@ -7,7 +7,7 @@
    
 ### Блок-схема
 
-<img width="1181" height="232"  src="https://github.com/wyrtwwr/Lab13/blob/main/photo_2025-12-01_18-20-57.jpg" />
+<img width="400" height="800"  src="https://github.com/wyrtwwr/Lab13/blob/main/photo_2025-12-01_18-20-57.jpg" />
 
 
 
