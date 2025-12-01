@@ -7,7 +7,7 @@
    
 ### Блок-схема
 
-![Uploading {D5040E60-F2DB-476C-A74F-1EE5C0B6AA97}.png…]()
+<img width="1181" height="232"  src="https://github.com/wyrtwwr/Lab13/blob/main/photo_2025-12-01_18-20-57.jpg" />
 
 
 
